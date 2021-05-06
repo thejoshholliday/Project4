@@ -1,0 +1,420 @@
+.reset {
+	font-family: roc-grotesk, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	position: absolute;
+	visibility: visible;
+ margin-left: 1230px;
+  margin-top: 540px;
+  position: static;
+   color: #D76514;
+   z-index: 10;
+}
+.save{
+	font-family: roc-grotesk, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	position: absolute;
+	visibility: visible;
+  position: absolute;
+   color: #D76514;
+  margin-left: 1000px;
+  margin-top: 689px;
+  z-index: 10;
+}
+body {
+	background: url('backdropp.jpg');
+	background-size: cover;
+	display: grid;
+}
+h2 {
+  font-family: roc-grotesk, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  margin-left: 1050px;
+  margin-top: 25px;
+  position: absolute;
+  z-index: 12;
+   color: #E06F9F;
+}
+h1 {
+	font-family: blackcurrant-cameo, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 70px;
+	color: white;
+	margin-left: 260px;
+	margin-top: 10px;
+}
+#wardrobe-container {
+	position: absolute;
+	margin-left: 155px;
+	margin-top: 130px;
+}
+#container {
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 270px;
+	z-index: 9;
+}
+#backdrop {
+	background-color: white;
+	width: 330px;
+	height: 740px;
+	margin-left: 970px;
+  margin-top: -20px;
+  margin-right: -800px;
+  position: absolute;
+}
+#item1 {
+  height: 150px;
+  width: 130px;
+  margin-left: -120px;
+	margin-top: -50px;
+}
+#item2 {
+  height: 150px;
+  width: 150px;
+    margin-left: -100px;
+	margin-top: -50px;
+}
+#item3 {
+  height: 233px;
+  width: 130px;
+  margin-left: -130px;
+	margin-top: 45px;
+}
+#item4 {
+  height: 230px;
+  width: 120px;
+  margin-left: -100px;
+	margin-top: 45px;
+}
+#item5 {
+  height: 150px;
+  width: 150px;
+  margin-left: -80px;
+	margin-top: -50px;
+}
+#item6 {
+  height: 150px;
+  width: 150px;
+  margin-left: 50px;
+	margin-top: -60px;
+}
+#item7 {
+  height: 150px;
+  width: 150px;
+  margin-left: 20px;
+	margin-top: -60px;
+}
+#item8 {
+  height: 160px;
+  width: 115px;
+   margin-left: -80px;
+	margin-top: 45px;
+}
+#item9 {
+ height: 86.625px;
+  width: 57.675px;
+   margin-left: -170px;
+	margin-top: -120px;
+}
+#item10 {
+  height: 106.625px;
+  width: 77.675px;
+   margin-left: -80px;
+	margin-top: -135px;
+}
+#item11 {
+ height: 100px;
+  width: 100px;
+   margin-left: -360px;
+	margin-top: -120px;
+}
+#item12 {
+ height: 130px;
+  width: 130px;
+   margin-left: -40px;
+	margin-top: -145px;
+}
+#item13 {
+  height: 120px;
+  width: 120px;
+   margin-left: -360px;
+	margin-top: -50px;
+}
+#item14 {
+  height: 130px;
+  width: 170px;
+   margin-left: -360px;
+	margin-top: -10px;
+}
+#item15 {
+ height: 96.625px;
+  width: 65px;
+  margin-left: 120px;
+	margin-top: -125px;
+}
+#item16 {
+  height: 100px;
+  width: 100px;
+  margin-left: -360px;
+	margin-top: 110px;
+}
+#item17 {
+ height: 213.4px;
+  width: 178.4px;
+  margin-left: -80px;
+	margin-top: -50px;
+}
+#item18 {
+  height: 233.4px;
+  width: 178.4px;
+  margin-left: -50px;
+	margin-top: -50px;
+}
+#item19 {
+ height: 80px;
+  width: 80px;
+   margin-left: -360px;
+	margin-top: 210px;
+}
+#item20 {
+  height: 150px;
+  width: 150px;
+  margin-left: 180px;
+	margin-top: 65px;
+}
+#item21 {
+  height: 150px;
+  width: 150px;
+   margin-left: 180px;
+	margin-top: 145px;
+}
+#item22 {
+  height: 253px;
+  width: 87.75px;
+  margin-left: 50px;
+	margin-top: 30px;
+}
+#item23 {
+  height: 220px;
+  width: 145px;
+}
+#item24 {
+  height: 273px;
+  width: 160px;
+    margin-left: 50px;
+	margin-top: 30px;
+}
+#item25 {
+  height: 150px;
+  width: 150px;
+   margin-left: 180px;
+	margin-top: -125px;
+}
+#item26 {
+  height: 150px;
+  width: 150px;
+}
+#item27 {
+  height: 150px;
+  width: 150px;
+   margin-left: 180px;
+	margin-top: -15px;
+}
+#item28 {
+  height: 150px;
+  width: 150px;
+   margin-left: -10px;
+	margin-top: -50px;
+}
+#item29 {
+ height: 253px;
+  width: 87.75px;
+  margin-left: 20px;
+	margin-top: 35px;
+}
+#item30 {
+  height: 109.25px;
+  width: 150px;
+  margin-top: 155px;
+}
+#item31 {
+  height: 253px;
+  width: 87.75px;
+  margin-left: -30px;
+	margin-top: 35px;
+}
+#item32 {
+  height: 86.625px;
+  width: 57.675px;
+  margin-left: 60px;
+	margin-top: -125px;
+}
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv2 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv3 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv4 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv5 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv6 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv7 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv8 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv9 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv10 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv11 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv12 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv13 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv14 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv15 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv16 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv17 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv18 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv18 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv19 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv20 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv21 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv22 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv23 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv24 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv25 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv26 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv27 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv28 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv29 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv30 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv31 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+#mydiv32 {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
